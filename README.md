@@ -85,4 +85,92 @@ Here are the insights obtained for each segment:
 •	Gender distribution: Segment 3 has a higher number of female customers compared to males.
 •	Average age and total children: The average age of customers in Segment 3 is approximately 32, and they tend to have an average of 3 children.
 
-![]()
+![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%203.png)
+
+### CUSTOMER PERSONA
+Creating customer personas is crucial for any business as it helps you understand your target audience at a deeper level. By developing detailed customer personas, you can gain valuable insights into your customers' preferences, behaviors, and needs. Here are the four personas based on the above insights:
+
+
+#### 1.	Segment 0: Young Professionals
+Name: Emily Thompson
+Age: 28
+Income: $35,000 per year
+Education: Bachelor's Degree
+Occupation: Professional
+Homeownership: Non-homeowner
+Gender: Female
+Total Children: 1
+#### Persona Description:
+Emily Thompson is a driven and ambitious young professional in her late 20s. She has recently completed her Bachelor's Degree and works in a professional role. With a moderate income, she is focused on building her career and establishing financial stability. Emily values convenience, affordability, and quality. She enjoys socializing, exploring new trends, and staying updated with the latest technology. As a non-homeowner, she is looking for flexible housing options that align with her current lifestyle. Emily is open to opportunities for personal growth and is interested in educational programs that can enhance her skills and advance her career.
+
+#### 2.	Segment 1: Middle-Income Families
+Name: Mark and Sarah Johnson
+Age: Mark (35), Sarah (33)
+Income: $80,000 per year
+Education: High School Degree (Mark), Bachelor's Degree (Sarah)
+Occupation: Manual (Mark), Skilled Manual (Sarah)
+Homeownership: Homeowner
+Gender: Male (Mark), Female (Sarah)
+Total Children: 3
+#### Persona Description:
+Mark and Sarah Johnson are a hardworking couple in their early 30s, raising a family with three children. Mark has completed high school and works in a manual occupation, while Sarah has a Bachelor's Degree and works in a skilled manual occupation. They prioritize stability, family well-being, and financial security. As homeowners, they value products and services that cater to their family's needs. Mark and Sarah seek value for money and appreciate brands that offer reliability, durability, and affordability. They are interested in educational resources that can support their children's development and future opportunities.
+
+#### 3.	Segment 2: Educated Achievers
+Name: David Miller
+Age: 32
+Income: $120,000 per year
+Education: Graduate Degree
+Occupation: Professional
+Homeownership: Homeowner
+Gender: Male
+Total Children: 3
+##### Persona Description:
+David Miller is a highly educated individual in his early 30s, holding a Graduate Degree. He has a successful career as a professional and earns a substantial income. David values continuous learning, personal growth, and intellectual stimulation. He seeks products and services that align with his sophisticated taste and appreciate brands that offer exclusivity and quality. As a homeowner, David is interested in home improvement and innovative technologies that can enhance his living experience. He invests in his children's education and extracurricular activities to support their well-rounded development
+
+#### 4. Segment 3: Affluent Females
+Name: Elizabeth Anderson
+Age: 35
+Income: $140,000 per year
+Education: High School Degree
+Occupation: Management
+Homeownership: Homeowner
+Gender: Female
+Total Children: 3
+#### Persona Description:
+Elizabeth Anderson is a successful and affluent female in her mid-30s. Despite not having a higher education degree, she has achieved career success in a management position and earns a high income. Elizabeth values luxury, elegance, and personalized experiences. She seeks high-end products and services that reflect her sophisticated lifestyle. As a homeowner, she appreciates brands that offer exclusive home décor, fine dining, and premium travel experiences. Elizabeth prioritizes her children's education and extracurricular activities, investing in their future and providing them with a comfortable lifestyle.
+
+### RECOMMENDATIONS
+#### 1.	Segment 0: Young Professionals
+•	Target this segment with affordable and trendy products that align with their income range (10K-30K) and education level (bachelor’s Degree).
+•	Offer convenience, fast shipping, and seamless online shopping experiences to cater to their busy lifestyles.
+•	Leverage social media platforms and influencer marketing to reach and engage with this tech-savvy segment.
+•	Provide options for flexible payment plans or installment options to accommodate their budget.
+
+#### 2.	Segment 1: Middle-Income Families
+•	Focus on offering value-for-money products and services that cater to the needs of families.
+•	Provide discounts, bundle deals, and loyalty programs to incentivize repeat purchases.
+•	Highlight family-oriented features, durability, and practicality in product descriptions and marketing materials.
+•	Offer educational resources, parenting tips, and family-focused content to establish a connection with this segment.
+
+#### 3.	Segment 2: Educated Achievers
+•	Target this segment with higher-end products and services that align with their income range (130K-150K) and education level (Graduate Degree).
+•	Emphasize quality, exclusivity, and personalized experiences to resonate with their aspirations.
+•	Implement a recommendation engine that suggests sophisticated and relevant products based on their browsing history and purchase behavior.
+•	Provide educational and professional development resources to support their continuous learning and growth
+
+#### 4.	Segment 3: Affluent Females
+•	Offer luxury products, premium services, and personalized shopping experiences to cater to the preferences of this segment.
+•	Implement a visually appealing and user-friendly website design that reflects elegance and sophistication.
+•	Curate a selection of high-end brands and exclusive collections to attract this segment.
+•	Leverage customer reviews and testimonials from similar affluent females to build trust and credibility.
+•	Provide exceptional customer service and personalization options to enhance the shopping experience.
+
+### GENERAL RECOMMENDATIONS FOR ALL SEGMENTS
+•	Optimize the mobile shopping experience to cater to the increasing trend of mobile shopping across all segments.
+•	Offer secure and seamless checkout processes to build trust and reduce cart abandonment rates.
+•	Implement a robust customer support system with various channels to address inquiries and resolve issues promptly.
+•	Leverage social proof and user-generated content to build brand trust and encourage customer engagement.
+•	Continuously analyze customer data to identify emerging trends, refine marketing strategies, and identify new market opportunities.
+•	By tailoring your marketing, product offerings, and customer experiences to each segment's unique characteristics and preferences, you can effectively attract and engage customers, enhance their satisfaction, and drive sales for your e-commerce business
+
+
