@@ -48,42 +48,42 @@ The second step in customer segmentation is data normalization, where selected f
 ### INSIGHTS FROM CUSTOMER SEGMENTATION
 Here are the insights obtained for each segment:
 #### Segment 0:
->	Yearly income distribution: The majority of customers in Segment 0 fall into the income range of $30K-$50K, followed by $50K-$70K. There is a smaller proportion of customers in the higher income ranges ($110K-$150K and $150K+).
->	Education distribution: Customers in Segment 0 have a relatively higher proportion of High School and Partial College education levels compared to other segments. The proportion of customers with a Bachelor's Degree is also significant.
->	Occupation distribution: The most common occupation in Segment 0 is Professional, followed by Skilled Manual and Manual. The proportion of customers in Clerical occupations is relatively lower.
->	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 0.
->	Gender distribution: Segment 0 has a higher number of male customers compared to females.
->	Average age and total children: The average age of customers in Segment 0 is approximately 32, and they tend to have an average of 2 children.
+*	Yearly income distribution: The majority of customers in Segment 0 fall into the income range of $30K-$50K, followed by $50K-$70K. There is a smaller proportion of customers in the higher income ranges ($110K-$150K and $150K+).
+*	Education distribution: Customers in Segment 0 have a relatively higher proportion of High School and Partial College education levels compared to other segments. The proportion of customers with a Bachelor's Degree is also significant.
+*	Occupation distribution: The most common occupation in Segment 0 is Professional, followed by Skilled Manual and Manual. The proportion of customers in Clerical occupations is relatively lower.
+*	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 0.
+*	Gender distribution: Segment 0 has a higher number of male customers compared to females.
+*	Average age and total children: The average age of customers in Segment 0 is approximately 32, and they tend to have an average of 2 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%200.png)
 
 #### Segment 1:
->	Yearly income distribution: Customers in Segment 1 have a significantly higher proportion in the income range of $70K-$90K. There are no customers with incomes above $150K in this segment.
->	Education distribution: The majority of customers in Segment 1 have a High School Degree. The proportion of customers with a Graduate Degree is very low.
->	Occupation distribution: Manual occupations have the highest representation in Segment 1, followed by Management and Skilled Manual.
->	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 1.
->	Gender distribution: Segment 1 has a higher number of female customers compared to males.
->	Average age and total children: The average age of customers in Segment 1 is approximately 32, and they tend to have an average of 3 children.
+*	Yearly income distribution: Customers in Segment 1 have a significantly higher proportion in the income range of $70K-$90K. There are no customers with incomes above $150K in this segment.
+*	Education distribution: The majority of customers in Segment 1 have a High School Degree. The proportion of customers with a Graduate Degree is very low.
+*	Occupation distribution: Manual occupations have the highest representation in Segment 1, followed by Management and Skilled Manual.
+*	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 1.
+*	Gender distribution: Segment 1 has a higher number of female customers compared to males.
+*	Average age and total children: The average age of customers in Segment 1 is approximately 32, and they tend to have an average of 3 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%201.png)
 
 #### Segment 2:
->	Yearly income distribution: Customers in Segment 2 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$150K range.
->	Education distribution: The majority of customers in Segment 2 have either a High School Degree or a Bachelor's Degree.
->	Occupation distribution: Professional occupations have the highest representation in Segment 2, followed by Management and Skilled Manual.
->	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 2.
->	Gender distribution: Segment 2 has a higher number of female customers compared to males.
->	Average age and total children: The average age of customers in Segment 2 is approximately 33, and they tend to have an average of 3 children.
+*	Yearly income distribution: Customers in Segment 2 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$150K range.
+*	Education distribution: The majority of customers in Segment 2 have either a High School Degree or a Bachelor's Degree.
+*	Occupation distribution: Professional occupations have the highest representation in Segment 2, followed by Management and Skilled Manual.
+*	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 2.
+*	Gender distribution: Segment 2 has a higher number of female customers compared to males.
+*	Average age and total children: The average age of customers in Segment 2 is approximately 33, and they tend to have an average of 3 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%202.png)
 
 #### Segment 3:
->	Yearly income distribution: Customers in Segment 3 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$130K range.
->	Education distribution: The majority of customers in Segment 3 have either a High School Degree or a Bachelor's Degree.
->	Occupation distribution: Professional occupations have the highest representation in Segment 3, followed by Management and Skilled Manual.
->	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 3.
->	Gender distribution: Segment 3 has a higher number of female customers compared to males.
->	Average age and total children: The average age of customers in Segment 3 is approximately 32, and they tend to have an average of 3 children.
+*	Yearly income distribution: Customers in Segment 3 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$130K range.
+*	Education distribution: The majority of customers in Segment 3 have either a High School Degree or a Bachelor's Degree.
+*	Occupation distribution: Professional occupations have the highest representation in Segment 3, followed by Management and Skilled Manual.
+*	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 3.
+*	Gender distribution: Segment 3 has a higher number of female customers compared to males.
+*	Average age and total children: The average age of customers in Segment 3 is approximately 32, and they tend to have an average of 3 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%203.png)
 
@@ -141,36 +141,36 @@ Elizabeth Anderson is a successful and affluent female in her mid-30s. Despite n
 
 ### RECOMMENDATIONS
 #### 1.	Segment 0: Young Professionals
->	Target this segment with affordable and trendy products that align with their income range (10K-30K) and education level (bachelor’s Degree).
->	Offer convenience, fast shipping, and seamless online shopping experiences to cater to their busy lifestyles.
->	Leverage social media platforms and influencer marketing to reach and engage with this tech-savvy segment.
->	Provide options for flexible payment plans or installment options to accommodate their budget.
+*	Target this segment with affordable and trendy products that align with their income range (10K-30K) and education level (bachelor’s Degree).
+*	Offer convenience, fast shipping, and seamless online shopping experiences to cater to their busy lifestyles.
+*	Leverage social media platforms and influencer marketing to reach and engage with this tech-savvy segment.
+*	Provide options for flexible payment plans or installment options to accommodate their budget.
 
 #### 2.	Segment 1: Middle-Income Families
->	Focus on offering value-for-money products and services that cater to the needs of families.
->	Provide discounts, bundle deals, and loyalty programs to incentivize repeat purchases.
->	Highlight family-oriented features, durability, and practicality in product descriptions and marketing materials.
->	Offer educational resources, parenting tips, and family-focused content to establish a connection with this segment.
+*	Focus on offering value-for-money products and services that cater to the needs of families.
+*	Provide discounts, bundle deals, and loyalty programs to incentivize repeat purchases.
+*	Highlight family-oriented features, durability, and practicality in product descriptions and marketing materials.
+*	Offer educational resources, parenting tips, and family-focused content to establish a connection with this segment.
 
 #### 3.	Segment 2: Educated Achievers
->	Target this segment with higher-end products and services that align with their income range (130K-150K) and education level (Graduate Degree).
->	Emphasize quality, exclusivity, and personalized experiences to resonate with their aspirations.
->	Implement a recommendation engine that suggests sophisticated and relevant products based on their browsing history and purchase behavior.
->	Provide educational and professional development resources to support their continuous learning and growth
+*	Target this segment with higher-end products and services that align with their income range (130K-150K) and education level (Graduate Degree).
+*	Emphasize quality, exclusivity, and personalized experiences to resonate with their aspirations.
+*	Implement a recommendation engine that suggests sophisticated and relevant products based on their browsing history and purchase behavior.
+*	Provide educational and professional development resources to support their continuous learning and growth
 
 #### 4.	Segment 3: Affluent Females
->	Offer luxury products, premium services, and personalized shopping experiences to cater to the preferences of this segment.
->	Implement a visually appealing and user-friendly website design that reflects elegance and sophistication.
->	Curate a selection of high-end brands and exclusive collections to attract this segment.
->	Leverage customer reviews and testimonials from similar affluent females to build trust and credibility.
->	Provide exceptional customer service and personalization options to enhance the shopping experience.
+*	Offer luxury products, premium services, and personalized shopping experiences to cater to the preferences of this segment.
+*	Implement a visually appealing and user-friendly website design that reflects elegance and sophistication.
+*	Curate a selection of high-end brands and exclusive collections to attract this segment.
+*	Leverage customer reviews and testimonials from similar affluent females to build trust and credibility.
+*	Provide exceptional customer service and personalization options to enhance the shopping experience.
 
 ### GENERAL RECOMMENDATIONS FOR ALL SEGMENTS
->	Optimize the mobile shopping experience to cater to the increasing trend of mobile shopping across all segments.
->	Offer secure and seamless checkout processes to build trust and reduce cart abandonment rates.
->	Implement a robust customer support system with various channels to address inquiries and resolve issues promptly.
->	Leverage social proof and user-generated content to build brand trust and encourage customer engagement.
->	Continuously analyze customer data to identify emerging trends, refine marketing strategies, and identify new market opportunities.
->	By tailoring your marketing, product offerings, and customer experiences to each segment's unique characteristics and preferences, you can effectively attract and engage customers, enhance their satisfaction, and drive sales for your e-commerce business
+*	Optimize the mobile shopping experience to cater to the increasing trend of mobile shopping across all segments.
+*	Offer secure and seamless checkout processes to build trust and reduce cart abandonment rates.
+*	Implement a robust customer support system with various channels to address inquiries and resolve issues promptly.
+*	Leverage social proof and user-generated content to build brand trust and encourage customer engagement.
+*	Continuously analyze customer data to identify emerging trends, refine marketing strategies, and identify new market opportunities.
+*	By tailoring your marketing, product offerings, and customer experiences to each segment's unique characteristics and preferences, you can effectively attract and engage customers, enhance their satisfaction, and drive sales for your e-commerce business
 
 
