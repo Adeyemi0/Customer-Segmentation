@@ -48,42 +48,42 @@ The second step in customer segmentation is data normalization, where selected f
 ### INSIGHTS FROM CUSTOMER SEGMENTATION
 Here are the insights obtained for each segment:
 #### Segment 0:
-•	Yearly income distribution: The majority of customers in Segment 0 fall into the income range of $30K-$50K, followed by $50K-$70K. There is a smaller proportion of customers in the higher income ranges ($110K-$150K and $150K+).
-•	Education distribution: Customers in Segment 0 have a relatively higher proportion of High School and Partial College education levels compared to other segments. The proportion of customers with a Bachelor's Degree is also significant.
-•	Occupation distribution: The most common occupation in Segment 0 is Professional, followed by Skilled Manual and Manual. The proportion of customers in Clerical occupations is relatively lower.
-•	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 0.
-•	Gender distribution: Segment 0 has a higher number of male customers compared to females.
-•	Average age and total children: The average age of customers in Segment 0 is approximately 32, and they tend to have an average of 2 children.
+>	Yearly income distribution: The majority of customers in Segment 0 fall into the income range of $30K-$50K, followed by $50K-$70K. There is a smaller proportion of customers in the higher income ranges ($110K-$150K and $150K+).
+>	Education distribution: Customers in Segment 0 have a relatively higher proportion of High School and Partial College education levels compared to other segments. The proportion of customers with a Bachelor's Degree is also significant.
+>	Occupation distribution: The most common occupation in Segment 0 is Professional, followed by Skilled Manual and Manual. The proportion of customers in Clerical occupations is relatively lower.
+>	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 0.
+>	Gender distribution: Segment 0 has a higher number of male customers compared to females.
+>	Average age and total children: The average age of customers in Segment 0 is approximately 32, and they tend to have an average of 2 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%200.png)
 
 #### Segment 1:
-•	Yearly income distribution: Customers in Segment 1 have a significantly higher proportion in the income range of $70K-$90K. There are no customers with incomes above $150K in this segment.
-•	Education distribution: The majority of customers in Segment 1 have a High School Degree. The proportion of customers with a Graduate Degree is very low.
-•	Occupation distribution: Manual occupations have the highest representation in Segment 1, followed by Management and Skilled Manual.
-•	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 1.
-•	Gender distribution: Segment 1 has a higher number of female customers compared to males.
-•	Average age and total children: The average age of customers in Segment 1 is approximately 32, and they tend to have an average of 3 children.
+>	Yearly income distribution: Customers in Segment 1 have a significantly higher proportion in the income range of $70K-$90K. There are no customers with incomes above $150K in this segment.
+>	Education distribution: The majority of customers in Segment 1 have a High School Degree. The proportion of customers with a Graduate Degree is very low.
+>	Occupation distribution: Manual occupations have the highest representation in Segment 1, followed by Management and Skilled Manual.
+>	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 1.
+>	Gender distribution: Segment 1 has a higher number of female customers compared to males.
+>	Average age and total children: The average age of customers in Segment 1 is approximately 32, and they tend to have an average of 3 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%201.png)
 
 #### Segment 2:
-•	Yearly income distribution: Customers in Segment 2 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$150K range.
-•	Education distribution: The majority of customers in Segment 2 have either a High School Degree or a Bachelor's Degree.
-•	Occupation distribution: Professional occupations have the highest representation in Segment 2, followed by Management and Skilled Manual.
-•	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 2.
-•	Gender distribution: Segment 2 has a higher number of female customers compared to males.
-•	Average age and total children: The average age of customers in Segment 2 is approximately 33, and they tend to have an average of 3 children.
+>	Yearly income distribution: Customers in Segment 2 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$150K range.
+>	Education distribution: The majority of customers in Segment 2 have either a High School Degree or a Bachelor's Degree.
+>	Occupation distribution: Professional occupations have the highest representation in Segment 2, followed by Management and Skilled Manual.
+>	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 2.
+>	Gender distribution: Segment 2 has a higher number of female customers compared to males.
+>	Average age and total children: The average age of customers in Segment 2 is approximately 33, and they tend to have an average of 3 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%202.png)
 
 #### Segment 3:
-•	Yearly income distribution: Customers in Segment 3 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$130K range.
-•	Education distribution: The majority of customers in Segment 3 have either a High School Degree or a Bachelor's Degree.
-•	Occupation distribution: Professional occupations have the highest representation in Segment 3, followed by Management and Skilled Manual.
-•	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 3.
-•	Gender distribution: Segment 3 has a higher number of female customers compared to males.
-•	Average age and total children: The average age of customers in Segment 3 is approximately 32, and they tend to have an average of 3 children.
+>	Yearly income distribution: Customers in Segment 3 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$130K range.
+>	Education distribution: The majority of customers in Segment 3 have either a High School Degree or a Bachelor's Degree.
+>	Occupation distribution: Professional occupations have the highest representation in Segment 3, followed by Management and Skilled Manual.
+>	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 3.
+>	Gender distribution: Segment 3 has a higher number of female customers compared to males.
+>	Average age and total children: The average age of customers in Segment 3 is approximately 32, and they tend to have an average of 3 children.
 
 ![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%203.png)
 
