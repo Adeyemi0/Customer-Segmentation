@@ -65,4 +65,14 @@ Here are the insights obtained for each segment:
 •	Gender distribution: Segment 1 has a higher number of female customers compared to males.
 •	Average age and total children: The average age of customers in Segment 1 is approximately 32, and they tend to have an average of 3 children.
 
+![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/segment%201.png)
+
+#### Segment 2:
+•	Yearly income distribution: Customers in Segment 2 have a relatively balanced income distribution across various ranges, with a slightly higher proportion in the $110K-$150K range.
+•	Education distribution: The majority of customers in Segment 2 have either a High School Degree or a Bachelor's Degree.
+•	Occupation distribution: Professional occupations have the highest representation in Segment 2, followed by Management and Skilled Manual.
+•	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 2.
+•	Gender distribution: Segment 2 has a higher number of female customers compared to males.
+•	Average age and total children: The average age of customers in Segment 2 is approximately 33, and they tend to have an average of 3 children.
+
 ![]()
