@@ -43,3 +43,16 @@ Homeownership status can be relevant, especially if the e-commerce store offers 
 
 The second step in customer segmentation is data normalization, where selected features are normalized to ensure they are on a similar scale. This step is crucial as it prevents features with larger ranges from dominating the clustering process. In this project, standardization is used as the normalization technique. After normalization, the K-Means clustering is employed to perform segmentation. However, before clustering, the number of clusters is determined by the elbow method. The elbow joint method involves iterating over a range of cluster numbers and computing the sum of squared distances (WCSS) within each cluster. The plot of the WCSS values against the number of clusters is used to identify the “elbow point”, indicating the optimal number of clusters. In this case, the value 4 was chosen as the optimal number of clusters. Take a look at the diagram below:
 
+![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/kmeans.png)
+
+### INSIGHTS FROM CUSTOMER SEGMENTATION
+Here are the insights obtained for each segment:
+Segment 0:
+•	Yearly income distribution: The majority of customers in Segment 0 fall into the income range of $30K-$50K, followed by $50K-$70K. There is a smaller proportion of customers in the higher income ranges ($110K-$150K and $150K+).
+•	Education distribution: Customers in Segment 0 have a relatively higher proportion of High School and Partial College education levels compared to other segments. The proportion of customers with a Bachelor's Degree is also significant.
+•	Occupation distribution: The most common occupation in Segment 0 is Professional, followed by Skilled Manual and Manual. The proportion of customers in Clerical occupations is relatively lower.
+•	Homeownership status: The number of homeowners is higher than non-homeowners in Segment 0.
+•	Gender distribution: Segment 0 has a higher number of male customers compared to females.
+•	Average age and total children: The average age of customers in Segment 0 is approximately 32, and they tend to have an average of 2 children.
+
+![]()
