@@ -14,7 +14,7 @@ To address the aforementioned challenges, the company has set the following goal
 3. Increased customer retention: The company strives to develop targeted engagement strategies for different customer segments to improve customer retention rates and build long-lasting relationships.
 
 ### DETAILS ABOUT THE DATASET
-![]()
+![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/datase.png)
 
 ### CUSTOMER SEGMENTATION PROCESS
 The first step in performing customer segmentation is feature selection, where demographic features that are most relevant to the segmentation goals are chosen.
@@ -22,4 +22,24 @@ The selected features for this project are:
 
 #### 1. Age/Yearly Income
 Age or yearly income can provide insights into the customer's financial situation and purchasing power. It can be useful for segmenting customers based on their spending habits or affordability.
+
+#### 2. Gender
+Gender can be relevant for segmentation, especially if there are gender-specific preferences or behaviors related to the products or services offered by the e-commerce store.
+
+#### 3. Marital Status
+Marital status can be relevant for segmentation, particularly if the e-commerce store offers products or services that cater to specific marital status categories, such as wedding-related items or family-oriented products.
+
+#### 4. Total Children
+The number of children a customer has can be valuable for segmentation, especially for products or services targeted at families or parents.
+
+#### 5. Education
+Education level can provide insights into the customer's background, interests, and preferences. It can be relevant for segmenting customers based on their educational attainment or educational needs related to the store's offerings.
+
+#### 6. Occupation
+Occupation can be relevant for segmentation, as different occupations may have specific needs or preferences related to the products or services offered by the e-commerce store.
+
+#### 7. Home Ownership
+Homeownership status can be relevant, especially if the e-commerce store offers products or services related to home improvement, décor, or maintenance.
+
+The second step in customer segmentation is data normalization, where selected features are normalized to ensure they are on a similar scale. This step is crucial as it prevents features with larger ranges from dominating the clustering process. In this project, standardization is used as the normalization technique. After normalization, the K-Means clustering is employed to perform segmentation. However, before clustering, the number of clusters is determined by the elbow method. The elbow joint method involves iterating over a range of cluster numbers and computing the sum of squared distances (WCSS) within each cluster. The plot of the WCSS values against the number of clusters is used to identify the “elbow point”, indicating the optimal number of clusters. In this case, the value 4 was chosen as the optimal number of clusters. Take a look at the diagram below:
 
