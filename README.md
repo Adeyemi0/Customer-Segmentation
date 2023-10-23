@@ -1,5 +1,5 @@
 ## Project Overview
-In this project, I applied the K-Means Clustering algorithm to customer demographic variables, such as age, gender, location, and socioeconomic factors. Based on the insights gained from the analysis, personalized marketing strategies, tailored product recommendations, and targeted customer experiences were developed for each segment. The effectiveness of these strategies was evaluated by measuring customer satisfaction, retention rates, and revenue generated from each segment.
+In this project, I employed the K-Means Clustering algorithm to analyze customer demographic variables, encompassing age, gender, location, and socioeconomic factors. Leveraging the derived insights, I crafted individualized marketing strategies, curated product recommendations, and orchestrated precise customer experiences for each unique segment. 
 
 ### PROBLEM STATEMENT
 The company aims to enhance its marketing efforts by dividing its customer base into distinct segments based on demographic information. The following challenges have been identified:
