@@ -1,3 +1,5 @@
+## Customer Segmentation
+![](https://github.com/Adeyemi0/Customer-Segmentation/blob/main/Images/se.jpg)
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
