@@ -1,3 +1,22 @@
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [The Company's Goals](#the-companys-goals)
+4. [Details About the Dataset](#details-about-the-dataset)
+5. [Customer Segmentation Process](#customer-segmentation-process)
+   - [Step 1: Feature Selection](#step-1-feature-selection)
+   - [Step 2: Data Normalization](#step-2-data-normalization)
+6. [Insights from Customer Segmentation](#insights-from-customer-segmentation)
+   - [Segment 0](#segment-0)
+   - [Segment 1](#segment-1)
+   - [Segment 2](#segment-2)
+   - [Segment 3](#segment-3)
+7. [Customer Persona](#customer-persona)
+   - [Segment 0: Young Professionals](#segment-0-young-professionals)
+   - [Segment 1: Middle-Income Families](#segment-1-middle-income-families)
+   - [Segment 2: Educated Achievers](#segment-2-educated-achievers)
+   - [Segment 3: Affluent Females](#segment-3-affluent-females)
+
 ## Project Overview
 In this project, I used K-Means Clustering to analyze customer demographic variables, like their age, gender, where they live, and how much money they earn. Leveraging the derived insights, I crafted individualized marketing strategies for each group of customers, suggested products they might like, and arranged their shopping experiences to suit their needs better
 
